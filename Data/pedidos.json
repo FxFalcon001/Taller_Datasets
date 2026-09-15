@@ -1,0 +1,1190 @@
+[
+  {
+    "fecha": "2026-08-01",
+    "hora": "18:15",
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "cantidad": 1,
+    "precio_unitario": 16500,
+    "total": 16500
+  },
+  {
+    "fecha": "2026-08-02",
+    "hora": "12:00",
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "cantidad": 1,
+    "precio_unitario": 6500,
+    "total": 6500
+  },
+  {
+    "fecha": "2026-08-02",
+    "hora": "18:32",
+    "id_plato": "P14",
+    "plato": "Jugo Natural en Agua",
+    "cantidad": 1,
+    "precio_unitario": 7000,
+    "total": 7000
+  },
+  {
+    "fecha": "2026-08-02",
+    "hora": "21:05",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 1,
+    "precio_unitario": 9000,
+    "total": 9000
+  },
+  {
+    "fecha": "2026-08-03",
+    "hora": "12:31",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 3,
+    "precio_unitario": 5500,
+    "total": 16500
+  },
+  {
+    "fecha": "2026-08-03",
+    "hora": "13:32",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 1,
+    "precio_unitario": 24000,
+    "total": 24000
+  },
+  {
+    "fecha": "2026-08-03",
+    "hora": "14:21",
+    "id_plato": "P07",
+    "plato": "Salchipapa Mixta Doble",
+    "cantidad": 1,
+    "precio_unitario": 23000,
+    "total": 23000
+  },
+  {
+    "fecha": "2026-08-03",
+    "hora": "17:21",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-03",
+    "hora": "18:53",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 1,
+    "precio_unitario": 24000,
+    "total": 24000
+  },
+  {
+    "fecha": "2026-08-03",
+    "hora": "19:08",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 1,
+    "precio_unitario": 9000,
+    "total": 9000
+  },
+  {
+    "fecha": "2026-08-03",
+    "hora": "19:15",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 3,
+    "precio_unitario": 13000,
+    "total": 39000
+  },
+  {
+    "fecha": "2026-08-04",
+    "hora": "12:13",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 19000,
+    "total": 19000
+  },
+  {
+    "fecha": "2026-08-04",
+    "hora": "13:12",
+    "id_plato": "P07",
+    "plato": "Salchipapa Mixta Doble",
+    "cantidad": 1,
+    "precio_unitario": 23000,
+    "total": 23000
+  },
+  {
+    "fecha": "2026-08-04",
+    "hora": "14:22",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 2,
+    "precio_unitario": 24000,
+    "total": 48000
+  },
+  {
+    "fecha": "2026-08-04",
+    "hora": "14:36",
+    "id_plato": "P03",
+    "plato": "Perro Suizo",
+    "cantidad": 1,
+    "precio_unitario": 15500,
+    "total": 15500
+  },
+  {
+    "fecha": "2026-08-04",
+    "hora": "21:08",
+    "id_plato": "P04",
+    "plato": "Perro Criollo con Chorizo",
+    "cantidad": 2,
+    "precio_unitario": 18000,
+    "total": 36000
+  },
+  {
+    "fecha": "2026-08-05",
+    "hora": "11:15",
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "cantidad": 1,
+    "precio_unitario": 6500,
+    "total": 6500
+  },
+  {
+    "fecha": "2026-08-05",
+    "hora": "12:24",
+    "id_plato": "P11",
+    "plato": "Choripán de la Casa",
+    "cantidad": 2,
+    "precio_unitario": 20000,
+    "total": 40000
+  },
+  {
+    "fecha": "2026-08-05",
+    "hora": "13:48",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 1,
+    "precio_unitario": 13000,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-05",
+    "hora": "17:05",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 2,
+    "precio_unitario": 5500,
+    "total": 11000
+  },
+  {
+    "fecha": "2026-08-05",
+    "hora": "18:50",
+    "id_plato": "P11",
+    "plato": "Choripán de la Casa",
+    "cantidad": 1,
+    "precio_unitario": 20000,
+    "total": 20000
+  },
+  {
+    "fecha": "2026-08-06",
+    "hora": "13:15",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 1,
+    "precio_unitario": 9000,
+    "total": 9000
+  },
+  {
+    "fecha": "2026-08-06",
+    "hora": "13:55",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 3,
+    "precio_unitario": 24000,
+    "total": 72000
+  },
+  {
+    "fecha": "2026-08-06",
+    "hora": "14:30",
+    "id_plato": "P03",
+    "plato": "Perro Suizo",
+    "cantidad": 1,
+    "precio_unitario": 15500,
+    "total": 15500
+  },
+  {
+    "fecha": "2026-08-06",
+    "hora": "17:15",
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "cantidad": 1,
+    "precio_unitario": 16500,
+    "total": 16500
+  },
+  {
+    "fecha": "2026-08-06",
+    "hora": "18:16",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-06",
+    "hora": "18:47",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 2,
+    "precio_unitario": 5500,
+    "total": 11000
+  },
+  {
+    "fecha": "2026-08-06",
+    "hora": "20:01",
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "cantidad": 2,
+    "precio_unitario": 16500,
+    "total": 33000
+  },
+  {
+    "fecha": "2026-08-06",
+    "hora": "21:06",
+    "id_plato": "P08",
+    "plato": "Maíz Pira con Queso",
+    "cantidad": 2,
+    "precio_unitario": 11500,
+    "total": 23000
+  },
+  {
+    "fecha": "2026-08-07",
+    "hora": "14:17",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 3,
+    "precio_unitario": 9000,
+    "total": 27000
+  },
+  {
+    "fecha": "2026-08-07",
+    "hora": "14:49",
+    "id_plato": "P08",
+    "plato": "Maíz Pira con Queso",
+    "cantidad": 2,
+    "precio_unitario": 11500,
+    "total": 23000
+  },
+  {
+    "fecha": "2026-08-07",
+    "hora": "18:34",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-07",
+    "hora": "19:43",
+    "id_plato": "P10",
+    "plato": "Hamburguesa Doble Tocineta",
+    "cantidad": 1,
+    "precio_unitario": 29000,
+    "total": 29000
+  },
+  {
+    "fecha": "2026-08-08",
+    "hora": "12:01",
+    "id_plato": "P08",
+    "plato": "Maíz Pira con Queso",
+    "cantidad": 1,
+    "precio_unitario": 11500,
+    "total": 11500
+  },
+  {
+    "fecha": "2026-08-08",
+    "hora": "19:41",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-08",
+    "hora": "20:12",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-08",
+    "hora": "21:07",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 2,
+    "precio_unitario": 19000,
+    "total": 38000
+  },
+  {
+    "fecha": "2026-08-09",
+    "hora": "12:28",
+    "id_plato": "P08",
+    "plato": "Maíz Pira con Queso",
+    "cantidad": 1,
+    "precio_unitario": 11500,
+    "total": 11500
+  },
+  {
+    "fecha": "2026-08-09",
+    "hora": "13:32",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 3,
+    "precio_unitario": 13000,
+    "total": 39000
+  },
+  {
+    "fecha": "2026-08-09",
+    "hora": "14:13",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 19000,
+    "total": 19000
+  },
+  {
+    "fecha": "2026-08-09",
+    "hora": "15:53",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 1,
+    "precio_unitario": 13000,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-09",
+    "hora": "19:21",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-09",
+    "hora": "19:53",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 2,
+    "precio_unitario": 24000,
+    "total": 48000
+  },
+  {
+    "fecha": "2026-08-09",
+    "hora": "20:00",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 1,
+    "precio_unitario": 5500,
+    "total": 5500
+  },
+  {
+    "fecha": "2026-08-09",
+    "hora": "20:54",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-10",
+    "hora": "13:21",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 1,
+    "precio_unitario": 13000,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-10",
+    "hora": "17:40",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 1,
+    "precio_unitario": 24000,
+    "total": 24000
+  },
+  {
+    "fecha": "2026-08-10",
+    "hora": "22:54",
+    "id_plato": "P03",
+    "plato": "Perro Suizo",
+    "cantidad": 1,
+    "precio_unitario": 15500,
+    "total": 15500
+  },
+  {
+    "fecha": "2026-08-11",
+    "hora": "12:15",
+    "id_plato": "P04",
+    "plato": "Perro Criollo con Chorizo",
+    "cantidad": 1,
+    "precio_unitario": 18000,
+    "total": 18000
+  },
+  {
+    "fecha": "2026-08-11",
+    "hora": "13:25",
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "cantidad": 1,
+    "precio_unitario": 16500,
+    "total": 16500
+  },
+  {
+    "fecha": "2026-08-11",
+    "hora": "13:40",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 1,
+    "precio_unitario": 9000,
+    "total": 9000
+  },
+  {
+    "fecha": "2026-08-11",
+    "hora": "14:18",
+    "id_plato": "P08",
+    "plato": "Maíz Pira con Queso",
+    "cantidad": 1,
+    "precio_unitario": 11500,
+    "total": 11500
+  },
+  {
+    "fecha": "2026-08-12",
+    "hora": "13:15",
+    "id_plato": "P10",
+    "plato": "Hamburguesa Doble Tocineta",
+    "cantidad": 1,
+    "precio_unitario": 29000,
+    "total": 29000
+  },
+  {
+    "fecha": "2026-08-12",
+    "hora": "14:29",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 1,
+    "precio_unitario": 9000,
+    "total": 9000
+  },
+  {
+    "fecha": "2026-08-12",
+    "hora": "18:09",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 19000,
+    "total": 19000
+  },
+  {
+    "fecha": "2026-08-12",
+    "hora": "19:20",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 3,
+    "precio_unitario": 19000,
+    "total": 57000
+  },
+  {
+    "fecha": "2026-08-12",
+    "hora": "20:50",
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "cantidad": 1,
+    "precio_unitario": 6500,
+    "total": 6500
+  },
+  {
+    "fecha": "2026-08-12",
+    "hora": "20:56",
+    "id_plato": "P03",
+    "plato": "Perro Suizo",
+    "cantidad": 1,
+    "precio_unitario": 15500,
+    "total": 15500
+  },
+  {
+    "fecha": "2026-08-13",
+    "hora": "13:13",
+    "id_plato": "P14",
+    "plato": "Jugo Natural en Agua",
+    "cantidad": 1,
+    "precio_unitario": 7000,
+    "total": 7000
+  },
+  {
+    "fecha": "2026-08-13",
+    "hora": "14:29",
+    "id_plato": "P07",
+    "plato": "Salchipapa Mixta Doble",
+    "cantidad": 3,
+    "precio_unitario": 23000,
+    "total": 69000
+  },
+  {
+    "fecha": "2026-08-13",
+    "hora": "17:00",
+    "id_plato": "P04",
+    "plato": "Perro Criollo con Chorizo",
+    "cantidad": 1,
+    "precio_unitario": 18000,
+    "total": 18000
+  },
+  {
+    "fecha": "2026-08-13",
+    "hora": "22:41",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 2,
+    "precio_unitario": 13000,
+    "total": 26000
+  },
+  {
+    "fecha": "2026-08-14",
+    "hora": "12:42",
+    "id_plato": "P14",
+    "plato": "Jugo Natural en Agua",
+    "cantidad": 1,
+    "precio_unitario": 7000,
+    "total": 7000
+  },
+  {
+    "fecha": "2026-08-15",
+    "hora": "19:39",
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "cantidad": 2,
+    "precio_unitario": 6500,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-16",
+    "hora": "11:21",
+    "id_plato": "P10",
+    "plato": "Hamburguesa Doble Tocineta",
+    "cantidad": 2,
+    "precio_unitario": 29000,
+    "total": 58000
+  },
+  {
+    "fecha": "2026-08-16",
+    "hora": "11:34",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 3,
+    "precio_unitario": 14000,
+    "total": 42000
+  },
+  {
+    "fecha": "2026-08-16",
+    "hora": "11:59",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 3,
+    "precio_unitario": 13000,
+    "total": 39000
+  },
+  {
+    "fecha": "2026-08-16",
+    "hora": "12:23",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 2,
+    "precio_unitario": 24000,
+    "total": 48000
+  },
+  {
+    "fecha": "2026-08-16",
+    "hora": "20:50",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 1,
+    "precio_unitario": 5500,
+    "total": 5500
+  },
+  {
+    "fecha": "2026-08-17",
+    "hora": "11:52",
+    "id_plato": "P08",
+    "plato": "Maíz Pira con Queso",
+    "cantidad": 3,
+    "precio_unitario": 11500,
+    "total": 34500
+  },
+  {
+    "fecha": "2026-08-17",
+    "hora": "16:15",
+    "id_plato": "P04",
+    "plato": "Perro Criollo con Chorizo",
+    "cantidad": 1,
+    "precio_unitario": 18000,
+    "total": 18000
+  },
+  {
+    "fecha": "2026-08-17",
+    "hora": "18:09",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 1,
+    "precio_unitario": 13000,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-17",
+    "hora": "21:55",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 2,
+    "precio_unitario": 24000,
+    "total": 48000
+  },
+  {
+    "fecha": "2026-08-18",
+    "hora": "11:25",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 1,
+    "precio_unitario": 24000,
+    "total": 24000
+  },
+  {
+    "fecha": "2026-08-18",
+    "hora": "12:59",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 1,
+    "precio_unitario": 9000,
+    "total": 9000
+  },
+  {
+    "fecha": "2026-08-18",
+    "hora": "13:01",
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "cantidad": 3,
+    "precio_unitario": 16500,
+    "total": 49500
+  },
+  {
+    "fecha": "2026-08-18",
+    "hora": "13:40",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 2,
+    "precio_unitario": 24000,
+    "total": 48000
+  },
+  {
+    "fecha": "2026-08-18",
+    "hora": "15:10",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 1,
+    "precio_unitario": 5500,
+    "total": 5500
+  },
+  {
+    "fecha": "2026-08-18",
+    "hora": "19:08",
+    "id_plato": "P10",
+    "plato": "Hamburguesa Doble Tocineta",
+    "cantidad": 3,
+    "precio_unitario": 29000,
+    "total": 87000
+  },
+  {
+    "fecha": "2026-08-18",
+    "hora": "20:05",
+    "id_plato": "P14",
+    "plato": "Jugo Natural en Agua",
+    "cantidad": 2,
+    "precio_unitario": 7000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-18",
+    "hora": "20:26",
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "cantidad": 2,
+    "precio_unitario": 6500,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-19",
+    "hora": "13:04",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-19",
+    "hora": "13:38",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-19",
+    "hora": "19:22",
+    "id_plato": "P07",
+    "plato": "Salchipapa Mixta Doble",
+    "cantidad": 1,
+    "precio_unitario": 23000,
+    "total": 23000
+  },
+  {
+    "fecha": "2026-08-19",
+    "hora": "19:24",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 2,
+    "precio_unitario": 13000,
+    "total": 26000
+  },
+  {
+    "fecha": "2026-08-19",
+    "hora": "21:29",
+    "id_plato": "P11",
+    "plato": "Choripán de la Casa",
+    "cantidad": 2,
+    "precio_unitario": 20000,
+    "total": 40000
+  },
+  {
+    "fecha": "2026-08-20",
+    "hora": "20:57",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 2,
+    "precio_unitario": 19000,
+    "total": 38000
+  },
+  {
+    "fecha": "2026-08-21",
+    "hora": "12:25",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 2,
+    "precio_unitario": 5500,
+    "total": 11000
+  },
+  {
+    "fecha": "2026-08-21",
+    "hora": "13:15",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 1,
+    "precio_unitario": 5500,
+    "total": 5500
+  },
+  {
+    "fecha": "2026-08-22",
+    "hora": "17:59",
+    "id_plato": "P04",
+    "plato": "Perro Criollo con Chorizo",
+    "cantidad": 1,
+    "precio_unitario": 18000,
+    "total": 18000
+  },
+  {
+    "fecha": "2026-08-22",
+    "hora": "18:20",
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "cantidad": 2,
+    "precio_unitario": 6500,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-22",
+    "hora": "19:19",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 19000,
+    "total": 19000
+  },
+  {
+    "fecha": "2026-08-22",
+    "hora": "19:57",
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "cantidad": 1,
+    "precio_unitario": 16500,
+    "total": 16500
+  },
+  {
+    "fecha": "2026-08-23",
+    "hora": "11:48",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 2,
+    "precio_unitario": 9000,
+    "total": 18000
+  },
+  {
+    "fecha": "2026-08-23",
+    "hora": "12:11",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 3,
+    "precio_unitario": 5500,
+    "total": 16500
+  },
+  {
+    "fecha": "2026-08-23",
+    "hora": "13:41",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 2,
+    "precio_unitario": 19000,
+    "total": 38000
+  },
+  {
+    "fecha": "2026-08-23",
+    "hora": "18:14",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-23",
+    "hora": "19:31",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 1,
+    "precio_unitario": 13000,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-23",
+    "hora": "19:34",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 19000,
+    "total": 19000
+  },
+  {
+    "fecha": "2026-08-24",
+    "hora": "12:29",
+    "id_plato": "P14",
+    "plato": "Jugo Natural en Agua",
+    "cantidad": 3,
+    "precio_unitario": 7000,
+    "total": 21000
+  },
+  {
+    "fecha": "2026-08-24",
+    "hora": "13:14",
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "cantidad": 1,
+    "precio_unitario": 16500,
+    "total": 16500
+  },
+  {
+    "fecha": "2026-08-24",
+    "hora": "15:07",
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "cantidad": 1,
+    "precio_unitario": 6500,
+    "total": 6500
+  },
+  {
+    "fecha": "2026-08-24",
+    "hora": "17:17",
+    "id_plato": "P04",
+    "plato": "Perro Criollo con Chorizo",
+    "cantidad": 1,
+    "precio_unitario": 18000,
+    "total": 18000
+  },
+  {
+    "fecha": "2026-08-24",
+    "hora": "18:57",
+    "id_plato": "P08",
+    "plato": "Maíz Pira con Queso",
+    "cantidad": 1,
+    "precio_unitario": 11500,
+    "total": 11500
+  },
+  {
+    "fecha": "2026-08-24",
+    "hora": "19:51",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 1,
+    "precio_unitario": 24000,
+    "total": 24000
+  },
+  {
+    "fecha": "2026-08-24",
+    "hora": "20:05",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 1,
+    "precio_unitario": 24000,
+    "total": 24000
+  },
+  {
+    "fecha": "2026-08-24",
+    "hora": "20:16",
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "cantidad": 2,
+    "precio_unitario": 6500,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-25",
+    "hora": "12:26",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 1,
+    "precio_unitario": 9000,
+    "total": 9000
+  },
+  {
+    "fecha": "2026-08-25",
+    "hora": "13:43",
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "cantidad": 1,
+    "precio_unitario": 24000,
+    "total": 24000
+  },
+  {
+    "fecha": "2026-08-25",
+    "hora": "14:11",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 2,
+    "precio_unitario": 5500,
+    "total": 11000
+  },
+  {
+    "fecha": "2026-08-25",
+    "hora": "14:57",
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "cantidad": 1,
+    "precio_unitario": 6500,
+    "total": 6500
+  },
+  {
+    "fecha": "2026-08-25",
+    "hora": "19:14",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 2,
+    "precio_unitario": 5500,
+    "total": 11000
+  },
+  {
+    "fecha": "2026-08-25",
+    "hora": "21:00",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 3,
+    "precio_unitario": 19000,
+    "total": 57000
+  },
+  {
+    "fecha": "2026-08-26",
+    "hora": "13:03",
+    "id_plato": "P03",
+    "plato": "Perro Suizo",
+    "cantidad": 1,
+    "precio_unitario": 15500,
+    "total": 15500
+  },
+  {
+    "fecha": "2026-08-26",
+    "hora": "18:41",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 1,
+    "precio_unitario": 13000,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-26",
+    "hora": "18:45",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 19000,
+    "total": 19000
+  },
+  {
+    "fecha": "2026-08-26",
+    "hora": "19:18",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 3,
+    "precio_unitario": 19000,
+    "total": 57000
+  },
+  {
+    "fecha": "2026-08-26",
+    "hora": "19:24",
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "cantidad": 2,
+    "precio_unitario": 9000,
+    "total": 18000
+  },
+  {
+    "fecha": "2026-08-26",
+    "hora": "20:35",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-26",
+    "hora": "21:51",
+    "id_plato": "P10",
+    "plato": "Hamburguesa Doble Tocineta",
+    "cantidad": 2,
+    "precio_unitario": 29000,
+    "total": 58000
+  },
+  {
+    "fecha": "2026-08-27",
+    "hora": "13:00",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 1,
+    "precio_unitario": 13000,
+    "total": 13000
+  },
+  {
+    "fecha": "2026-08-28",
+    "hora": "18:30",
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "cantidad": 1,
+    "precio_unitario": 14000,
+    "total": 14000
+  },
+  {
+    "fecha": "2026-08-28",
+    "hora": "19:07",
+    "id_plato": "P11",
+    "plato": "Choripán de la Casa",
+    "cantidad": 1,
+    "precio_unitario": 20000,
+    "total": 20000
+  },
+  {
+    "fecha": "2026-08-29",
+    "hora": "19:53",
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "cantidad": 2,
+    "precio_unitario": 19000,
+    "total": 38000
+  },
+  {
+    "fecha": "2026-08-30",
+    "hora": "15:19",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 2,
+    "precio_unitario": 5500,
+    "total": 11000
+  },
+  {
+    "fecha": "2026-08-30",
+    "hora": "17:46",
+    "id_plato": "P11",
+    "plato": "Choripán de la Casa",
+    "cantidad": 2,
+    "precio_unitario": 20000,
+    "total": 40000
+  },
+  {
+    "fecha": "2026-08-30",
+    "hora": "19:35",
+    "id_plato": "P03",
+    "plato": "Perro Suizo",
+    "cantidad": 1,
+    "precio_unitario": 15500,
+    "total": 15500
+  },
+  {
+    "fecha": "2026-08-30",
+    "hora": "20:43",
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "cantidad": 2,
+    "precio_unitario": 5500,
+    "total": 11000
+  },
+  {
+    "fecha": "2026-08-30",
+    "hora": "21:55",
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "cantidad": 2,
+    "precio_unitario": 16500,
+    "total": 33000
+  },
+  {
+    "fecha": "2026-08-31",
+    "hora": "19:33",
+    "id_plato": "P14",
+    "plato": "Jugo Natural en Agua",
+    "cantidad": 1,
+    "precio_unitario": 7000,
+    "total": 7000
+  },
+  {
+    "fecha": "2026-08-31",
+    "hora": "19:43",
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "cantidad": 2,
+    "precio_unitario": 13000,
+    "total": 26000
+  },
+  {
+    "fecha": "2026-08-31",
+    "hora": "20:57",
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "cantidad": 1,
+    "precio_unitario": 16500,
+    "total": 16500
+  }
+]

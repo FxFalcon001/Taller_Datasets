@@ -1,0 +1,133 @@
+fecha,hora,id_plato,plato,cantidad,precio_unitario,total
+2026-08-01,18:15,P02,Perro Ranchero,1,16500,16500
+2026-08-02,12:00,P15,Adición de Papa a la Francesa,1,6500,6500
+2026-08-02,18:32,P14,Jugo Natural en Agua,1,7000,7000
+2026-08-02,21:05,P13,Limonada de Coco,1,9000,9000
+2026-08-03,12:31,P12,Gaseosa Personal 400ml,3,5500,16500
+2026-08-03,13:32,P09,Hamburguesa Salchichera,1,24000,24000
+2026-08-03,14:21,P07,Salchipapa Mixta Doble,1,23000,23000
+2026-08-03,17:21,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-03,18:53,P09,Hamburguesa Salchichera,1,24000,24000
+2026-08-03,19:08,P13,Limonada de Coco,1,9000,9000
+2026-08-03,19:15,P05,Salchipapa Clásica,3,13000,39000
+2026-08-04,12:13,P06,Salchipapa Señor Salchicha,1,19000,19000
+2026-08-04,13:12,P07,Salchipapa Mixta Doble,1,23000,23000
+2026-08-04,14:22,P09,Hamburguesa Salchichera,2,24000,48000
+2026-08-04,14:36,P03,Perro Suizo,1,15500,15500
+2026-08-04,21:08,P04,Perro Criollo con Chorizo,2,18000,36000
+2026-08-05,11:15,P15,Adición de Papa a la Francesa,1,6500,6500
+2026-08-05,12:24,P11,Choripán de la Casa,2,20000,40000
+2026-08-05,13:48,P05,Salchipapa Clásica,1,13000,13000
+2026-08-05,17:05,P12,Gaseosa Personal 400ml,2,5500,11000
+2026-08-05,18:50,P11,Choripán de la Casa,1,20000,20000
+2026-08-06,13:15,P13,Limonada de Coco,1,9000,9000
+2026-08-06,13:55,P09,Hamburguesa Salchichera,3,24000,72000
+2026-08-06,14:30,P03,Perro Suizo,1,15500,15500
+2026-08-06,17:15,P02,Perro Ranchero,1,16500,16500
+2026-08-06,18:16,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-06,18:47,P12,Gaseosa Personal 400ml,2,5500,11000
+2026-08-06,20:01,P02,Perro Ranchero,2,16500,33000
+2026-08-06,21:06,P08,Maíz Pira con Queso,2,11500,23000
+2026-08-07,14:17,P13,Limonada de Coco,3,9000,27000
+2026-08-07,14:49,P08,Maíz Pira con Queso,2,11500,23000
+2026-08-07,18:34,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-07,19:43,P10,Hamburguesa Doble Tocineta,1,29000,29000
+2026-08-08,12:01,P08,Maíz Pira con Queso,1,11500,11500
+2026-08-08,19:41,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-08,20:12,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-08,21:07,P06,Salchipapa Señor Salchicha,2,19000,38000
+2026-08-09,12:28,P08,Maíz Pira con Queso,1,11500,11500
+2026-08-09,13:32,P05,Salchipapa Clásica,3,13000,39000
+2026-08-09,14:13,P06,Salchipapa Señor Salchicha,1,19000,19000
+2026-08-09,15:53,P05,Salchipapa Clásica,1,13000,13000
+2026-08-09,19:21,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-09,19:53,P09,Hamburguesa Salchichera,2,24000,48000
+2026-08-09,20:00,P12,Gaseosa Personal 400ml,1,5500,5500
+2026-08-09,20:54,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-10,13:21,P05,Salchipapa Clásica,1,13000,13000
+2026-08-10,17:40,P09,Hamburguesa Salchichera,1,24000,24000
+2026-08-10,22:54,P03,Perro Suizo,1,15500,15500
+2026-08-11,12:15,P04,Perro Criollo con Chorizo,1,18000,18000
+2026-08-11,13:25,P02,Perro Ranchero,1,16500,16500
+2026-08-11,13:40,P13,Limonada de Coco,1,9000,9000
+2026-08-11,14:18,P08,Maíz Pira con Queso,1,11500,11500
+2026-08-12,13:15,P10,Hamburguesa Doble Tocineta,1,29000,29000
+2026-08-12,14:29,P13,Limonada de Coco,1,9000,9000
+2026-08-12,18:09,P06,Salchipapa Señor Salchicha,1,19000,19000
+2026-08-12,19:20,P06,Salchipapa Señor Salchicha,3,19000,57000
+2026-08-12,20:50,P15,Adición de Papa a la Francesa,1,6500,6500
+2026-08-12,20:56,P03,Perro Suizo,1,15500,15500
+2026-08-13,13:13,P14,Jugo Natural en Agua,1,7000,7000
+2026-08-13,14:29,P07,Salchipapa Mixta Doble,3,23000,69000
+2026-08-13,17:00,P04,Perro Criollo con Chorizo,1,18000,18000
+2026-08-13,22:41,P05,Salchipapa Clásica,2,13000,26000
+2026-08-14,12:42,P14,Jugo Natural en Agua,1,7000,7000
+2026-08-15,19:39,P15,Adición de Papa a la Francesa,2,6500,13000
+2026-08-16,11:21,P10,Hamburguesa Doble Tocineta,2,29000,58000
+2026-08-16,11:34,P01,Perro Señor Salchicha,3,14000,42000
+2026-08-16,11:59,P05,Salchipapa Clásica,3,13000,39000
+2026-08-16,12:23,P09,Hamburguesa Salchichera,2,24000,48000
+2026-08-16,20:50,P12,Gaseosa Personal 400ml,1,5500,5500
+2026-08-17,11:52,P08,Maíz Pira con Queso,3,11500,34500
+2026-08-17,16:15,P04,Perro Criollo con Chorizo,1,18000,18000
+2026-08-17,18:09,P05,Salchipapa Clásica,1,13000,13000
+2026-08-17,21:55,P09,Hamburguesa Salchichera,2,24000,48000
+2026-08-18,11:25,P09,Hamburguesa Salchichera,1,24000,24000
+2026-08-18,12:59,P13,Limonada de Coco,1,9000,9000
+2026-08-18,13:01,P02,Perro Ranchero,3,16500,49500
+2026-08-18,13:40,P09,Hamburguesa Salchichera,2,24000,48000
+2026-08-18,15:10,P12,Gaseosa Personal 400ml,1,5500,5500
+2026-08-18,19:08,P10,Hamburguesa Doble Tocineta,3,29000,87000
+2026-08-18,20:05,P14,Jugo Natural en Agua,2,7000,14000
+2026-08-18,20:26,P15,Adición de Papa a la Francesa,2,6500,13000
+2026-08-19,13:04,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-19,13:38,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-19,19:22,P07,Salchipapa Mixta Doble,1,23000,23000
+2026-08-19,19:24,P05,Salchipapa Clásica,2,13000,26000
+2026-08-19,21:29,P11,Choripán de la Casa,2,20000,40000
+2026-08-20,20:57,P06,Salchipapa Señor Salchicha,2,19000,38000
+2026-08-21,12:25,P12,Gaseosa Personal 400ml,2,5500,11000
+2026-08-21,13:15,P12,Gaseosa Personal 400ml,1,5500,5500
+2026-08-22,17:59,P04,Perro Criollo con Chorizo,1,18000,18000
+2026-08-22,18:20,P15,Adición de Papa a la Francesa,2,6500,13000
+2026-08-22,19:19,P06,Salchipapa Señor Salchicha,1,19000,19000
+2026-08-22,19:57,P02,Perro Ranchero,1,16500,16500
+2026-08-23,11:48,P13,Limonada de Coco,2,9000,18000
+2026-08-23,12:11,P12,Gaseosa Personal 400ml,3,5500,16500
+2026-08-23,13:41,P06,Salchipapa Señor Salchicha,2,19000,38000
+2026-08-23,18:14,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-23,19:31,P05,Salchipapa Clásica,1,13000,13000
+2026-08-23,19:34,P06,Salchipapa Señor Salchicha,1,19000,19000
+2026-08-24,12:29,P14,Jugo Natural en Agua,3,7000,21000
+2026-08-24,13:14,P02,Perro Ranchero,1,16500,16500
+2026-08-24,15:07,P15,Adición de Papa a la Francesa,1,6500,6500
+2026-08-24,17:17,P04,Perro Criollo con Chorizo,1,18000,18000
+2026-08-24,18:57,P08,Maíz Pira con Queso,1,11500,11500
+2026-08-24,19:51,P09,Hamburguesa Salchichera,1,24000,24000
+2026-08-24,20:05,P09,Hamburguesa Salchichera,1,24000,24000
+2026-08-24,20:16,P15,Adición de Papa a la Francesa,2,6500,13000
+2026-08-25,12:26,P13,Limonada de Coco,1,9000,9000
+2026-08-25,13:43,P09,Hamburguesa Salchichera,1,24000,24000
+2026-08-25,14:11,P12,Gaseosa Personal 400ml,2,5500,11000
+2026-08-25,14:57,P15,Adición de Papa a la Francesa,1,6500,6500
+2026-08-25,19:14,P12,Gaseosa Personal 400ml,2,5500,11000
+2026-08-25,21:00,P06,Salchipapa Señor Salchicha,3,19000,57000
+2026-08-26,13:03,P03,Perro Suizo,1,15500,15500
+2026-08-26,18:41,P05,Salchipapa Clásica,1,13000,13000
+2026-08-26,18:45,P06,Salchipapa Señor Salchicha,1,19000,19000
+2026-08-26,19:18,P06,Salchipapa Señor Salchicha,3,19000,57000
+2026-08-26,19:24,P13,Limonada de Coco,2,9000,18000
+2026-08-26,20:35,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-26,21:51,P10,Hamburguesa Doble Tocineta,2,29000,58000
+2026-08-27,13:00,P05,Salchipapa Clásica,1,13000,13000
+2026-08-28,18:30,P01,Perro Señor Salchicha,1,14000,14000
+2026-08-28,19:07,P11,Choripán de la Casa,1,20000,20000
+2026-08-29,19:53,P06,Salchipapa Señor Salchicha,2,19000,38000
+2026-08-30,15:19,P12,Gaseosa Personal 400ml,2,5500,11000
+2026-08-30,17:46,P11,Choripán de la Casa,2,20000,40000
+2026-08-30,19:35,P03,Perro Suizo,1,15500,15500
+2026-08-30,20:43,P12,Gaseosa Personal 400ml,2,5500,11000
+2026-08-30,21:55,P02,Perro Ranchero,2,16500,33000
+2026-08-31,19:33,P14,Jugo Natural en Agua,1,7000,7000
+2026-08-31,19:43,P05,Salchipapa Clásica,2,13000,26000
+2026-08-31,20:57,P02,Perro Ranchero,1,16500,16500

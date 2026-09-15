@@ -1,0 +1,16 @@
+id_plato,plato,categoria,insumo_critico,stock_actual,costo,precio_venta
+P01,Perro Señor Salchicha,Perros,Salchicha americana,18,5200,14000
+P02,Perro Ranchero,Perros,Tocineta ahumada,9,6400,16500
+P03,Perro Suizo,Perros,Queso mozzarella,24,6000,15500
+P04,Perro Criollo con Chorizo,Perros,Chorizo santarrosano,12,7100,18000
+P05,Salchipapa Clásica,Salchipapas,Papa criolla,32,4800,13000
+P06,Salchipapa Señor Salchicha,Salchipapas,Salchicha ranchera,15,7300,19000
+P07,Salchipapa Mixta Doble,Salchipapas,Carne desmechada,7,9200,23000
+P08,Maíz Pira con Queso,Salchipapas,Queso costeño,21,4100,11500
+P09,Hamburguesa Salchichera,Hamburguesas,Carne de res 150g,11,10500,24000
+P10,Hamburguesa Doble Tocineta,Hamburguesas,Tocineta ahumada,6,13200,29000
+P11,Choripán de la Casa,Hamburguesas,Chorizo santarrosano,8,8300,20000
+P12,Gaseosa Personal 400ml,Bebidas,Gaseosa 400ml,48,2200,5500
+P13,Limonada de Coco,Bebidas,Pulpa de coco,14,3400,9000
+P14,Jugo Natural en Agua,Bebidas,Pulpa de fruta,19,2600,7000
+P15,Adición de Papa a la Francesa,Adiciones,Papa prefrita,5,2400,6500

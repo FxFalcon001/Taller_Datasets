@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es-CO">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Comidas Señor Salchicha: perros calientes, salchipapas y hamburguesas de plancha en Bogotá. Mira la carta y los precios del mes.">
+  <title>Comidas Señor Salchicha · Perros y salchipapas de plancha</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="barra">
+    <div class="contenedor barra__interior">
+      <a class="marca" href="index.html">
+        <span class="marca__sello" aria-hidden="true">🌭</span>
+        Comidas Señor Salchicha
+      </a>
+      <nav class="nav" aria-label="Navegación principal">
+        <a href="#carta" aria-current="page">Carta</a>
+        <a href="#favoritos">Los más pedidos</a>
+        <a href="#donde">Dónde estamos</a>
+        <a href="admin.html">Panel del dueño</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- ============================ PORTADA ============================ -->
+    <section class="portada">
+      <div class="contenedor portada__grid">
+        <div>
+          <p class="portada__lema">Food truck de plancha · Bogotá</p>
+          <h1>Salchicha, papa y <span class="portada__enfasis">candela</span>.</h1>
+          <p class="portada__lema">
+            Perros calientes, salchipapas y hamburguesas hechas al momento sobre la
+            plancha. Sin filas eternas: pides, esperas cinco minutos y comes.
+          </p>
+          <div class="portada__acciones">
+            <a class="boton" href="#carta">Ver la carta</a>
+            <a class="boton boton--fantasma" href="#donde">Cómo llegar</a>
+          </div>
+        </div>
+
+        <!-- Estos datos se calculan desde pedidos.json con JavaScript -->
+        <div class="portada__datos" id="portada-datos">
+          <div class="dato">
+            <span class="dato__valor" data-dato="platos">—</span>
+            <span class="dato__nombre">platos en la carta</span>
+          </div>
+          <div class="dato">
+            <span class="dato__valor" data-dato="pedidos">—</span>
+            <span class="dato__nombre">pedidos el mes pasado</span>
+          </div>
+          <div class="dato">
+            <span class="dato__valor" data-dato="hora">—</span>
+            <span class="dato__nombre">nuestra hora más llena</span>
+          </div>
+          <div class="dato">
+            <span class="dato__valor" data-dato="favorito">—</span>
+            <span class="dato__nombre">el más pedido</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================ CARTA ============================== -->
+    <section class="seccion" id="carta">
+      <div class="contenedor">
+        <div class="seccion__cabeza">
+          <h2>La carta</h2>
+          <p>
+            Precios en pesos colombianos, con IVA incluido. Las etiquetas marcan lo que
+            más sale y lo que está por agotarse hoy.
+          </p>
+        </div>
+
+        <p class="cargando" id="carta-estado" role="status">Cargando la carta…</p>
+        <div id="carta-contenido"></div>
+      </div>
+    </section>
+
+    <!-- ========================== FAVORITOS ============================ -->
+    <section class="seccion seccion--tinte" id="favoritos">
+      <div class="contenedor">
+        <div class="seccion__cabeza">
+          <h2>Los más pedidos del mes</h2>
+          <p>Ranking real, calculado sobre la libreta de pedidos del mes pasado.</p>
+        </div>
+        <div class="rejilla" id="favoritos-contenido"></div>
+      </div>
+    </section>
+
+    <!-- ============================ DÓNDE ============================== -->
+    <section class="seccion" id="donde">
+      <div class="contenedor dos-columnas">
+        <div>
+          <h2>Dónde estamos</h2>
+          <p>
+            Parqueamos en la carrera 15 con calle 93, costado occidental del parque.
+            Los jueves rotamos al parqueadero de la Zona G. Si el toldo amarillo está
+            arriba, la plancha está prendida.
+          </p>
+          <p>
+            Domicilios por WhatsApp dentro de un radio de 2 km. Pedido mínimo
+            $20.000. Pagos en efectivo, Nequi y datáfono.
+          </p>
+          <a class="boton" href="#carta">Ver la carta y pedir</a>
+        </div>
+        <div class="tarjeta">
+          <h3>Horario del truck</h3>
+          <table>
+            <caption>Servicio continuo entre semana</caption>
+            <tbody>
+              <tr><th scope="row">Lunes a jueves</th><td>11:00 a.m. – 10:00 p.m.</td></tr>
+              <tr><th scope="row">Viernes y sábado</th><td>11:00 a.m. – 11:30 p.m.</td></tr>
+              <tr><th scope="row">Domingo</th><td>12:00 m. – 9:00 p.m.</td></tr>
+            </tbody>
+          </table>
+          <p id="consejo-hora">Consultando la hora de menos fila…</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="pie">
+    <div class="contenedor">
+      <div class="pie__grid">
+        <div>
+          <h3>Comidas Señor Salchicha</h3>
+          <p>Carrera 15 # 93-40, Bogotá D.C.<br>WhatsApp 300 000 0000</p>
+        </div>
+        <div>
+          <h3>Carta</h3>
+          <ul>
+            <li><a href="#carta">Perros calientes</a></li>
+            <li><a href="#carta">Salchipapas</a></li>
+            <li><a href="#carta">Hamburguesas y bebidas</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Para el equipo</h3>
+          <ul>
+            <li><a href="admin.html">Panel de indicadores</a></li>
+          </ul>
+        </div>
+      </div>
+      <p class="pie__legal">
+        Proyecto académico con datos sintéticos. El negocio, los pedidos y los precios
+        son ficticios y fueron generados para el taller Food Truck Data Challenge.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

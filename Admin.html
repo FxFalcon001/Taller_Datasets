@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="es-CO">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Panel interno de Comidas Señor Salchicha: ventas, ticket promedio, hora pico, rentabilidad por plato, alertas de insumos y proyección de demanda.">
+  <title>Panel del dueño · Comidas Señor Salchicha</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="barra">
+    <div class="contenedor barra__interior">
+      <a class="marca" href="index.html">
+        <span class="marca__sello" aria-hidden="true">🌭</span>
+        Comidas Señor Salchicha
+      </a>
+      <nav class="nav" aria-label="Navegación principal">
+        <a href="index.html">Sitio público</a>
+        <a href="#indicadores" aria-current="page">Indicadores</a>
+        <a href="#rankings">Rankings</a>
+        <a href="#insumos">Insumos</a>
+        <a href="#proyeccion">Proyección</a>
+        <a href="#conclusiones">Conclusiones</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="contenedor seccion">
+
+    <div class="seccion__cabeza">
+      <h2>Panel del dueño</h2>
+      <p id="periodo-analizado">Cargando el periodo analizado…</p>
+    </div>
+
+    <div id="estado-carga" class="cargando" role="status">Leyendo pedidos.json y carta.json…</div>
+    <div id="estado-error" hidden></div>
+
+    <div id="tablero" class="pila pila--ancha" hidden>
+
+      <!-- ========================= KPIs ========================= -->
+      <section id="indicadores" aria-labelledby="t-indicadores">
+        <h3 id="t-indicadores" class="visualmente-oculto">Indicadores principales</h3>
+        <div class="kpis" id="kpis"></div>
+      </section>
+
+      <!-- ===================== VENTAS POR HORA ================== -->
+      <section aria-labelledby="t-horas">
+        <div class="panel">
+          <div class="panel__titulo">
+            <h3 id="t-horas">Ingresos por franja horaria</h3>
+            <span class="panel__nota">Rojo: hora pico · Gris: franja floja</span>
+          </div>
+          <div class="horas" id="grafico-horas"></div>
+          <p class="panel__nota" id="resumen-horas"></p>
+        </div>
+      </section>
+
+      <!-- ===================== VENTAS POR DÍA =================== -->
+      <section aria-labelledby="t-dias">
+        <div class="panel">
+          <div class="panel__titulo">
+            <h3 id="t-dias">Ventas día a día del mes</h3>
+            <span class="panel__nota">Línea punteada: promedio diario</span>
+          </div>
+          <div class="svg-envoltura" id="grafico-dias"></div>
+        </div>
+      </section>
+
+      <!-- ======================= RANKINGS ======================= -->
+      <section id="rankings" class="pila" aria-labelledby="t-rankings">
+        <h3 id="t-rankings" class="visualmente-oculto">Rankings de platos</h3>
+
+        <div class="rejilla">
+          <div class="panel">
+            <div class="panel__titulo">
+              <h3>Top 5 por ingresos</h3>
+              <span class="panel__nota">Lo que más factura</span>
+            </div>
+            <div class="barras" id="top-ingresos"></div>
+          </div>
+
+          <div class="panel">
+            <div class="panel__titulo">
+              <h3>Top 5 por utilidad</h3>
+              <span class="panel__nota">Lo que más deja</span>
+            </div>
+            <div class="barras" id="top-utilidad"></div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel__titulo">
+            <h3>Rentabilidad plato por plato</h3>
+            <span class="panel__nota">Ordenado por utilidad total del mes</span>
+          </div>
+          <div class="tabla-envoltura">
+            <table id="tabla-platos">
+              <caption>Utilidad unitaria = precio de venta − costo. Margen = utilidad ÷ precio de venta.</caption>
+              <thead>
+                <tr>
+                  <th scope="col">Plato</th>
+                  <th scope="col">Categoría</th>
+                  <th scope="col" class="num">Unidades</th>
+                  <th scope="col" class="num">Ingresos</th>
+                  <th scope="col" class="num">Utilidad</th>
+                  <th scope="col" class="num">Margen</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel__titulo">
+            <h3>Peso de cada categoría</h3>
+            <span class="panel__nota">Participación en los ingresos del mes</span>
+          </div>
+          <div class="barras" id="categorias"></div>
+        </div>
+      </section>
+
+      <!-- ======================== INSUMOS ======================= -->
+      <section id="insumos" aria-labelledby="t-insumos">
+        <div class="panel">
+          <div class="panel__titulo">
+            <h3 id="t-insumos">Alertas de insumos</h3>
+            <span class="panel__nota">Punto de reorden: 10 unidades</span>
+          </div>
+          <div id="alertas-resumen"></div>
+          <div class="tabla-envoltura">
+            <table id="tabla-insumos">
+              <caption>La cobertura estimada usa el consumo promedio diario del mes analizado.</caption>
+              <thead>
+                <tr>
+                  <th scope="col">Insumo crítico</th>
+                  <th scope="col">Plato asociado</th>
+                  <th scope="col" class="num">Stock</th>
+                  <th scope="col" class="num">Consumo/día</th>
+                  <th scope="col" class="num">Cobertura</th>
+                  <th scope="col">Estado</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- ====================== PROYECCIÓN ====================== -->
+      <section id="proyeccion" aria-labelledby="t-proyeccion">
+        <div class="panel">
+          <div class="panel__titulo">
+            <h3 id="t-proyeccion">Proyección de demanda · próxima semana</h3>
+            <span class="panel__nota">Estimación simple por promedios</span>
+          </div>
+          <div class="aviso">
+            <strong>Cómo leer esto:</strong> es una estimación aritmética
+            (promedio diario del mes × 7 días), no un modelo predictivo. Sirve para
+            ordenar la compra de insumos, no para tomar decisiones financieras.
+          </div>
+          <div class="kpis" id="kpis-proyeccion"></div>
+          <div class="tabla-envoltura" style="margin-top:1.25rem">
+            <table id="tabla-proyeccion">
+              <caption>Unidades esperadas por plato y comparación con el stock disponible.</caption>
+              <thead>
+                <tr>
+                  <th scope="col">Plato</th>
+                  <th scope="col" class="num">Vendido en el mes</th>
+                  <th scope="col" class="num">Estimado próx. semana</th>
+                  <th scope="col" class="num">Ingreso estimado</th>
+                  <th scope="col">¿Alcanza el stock?</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================== CONCLUSIONES ===================== -->
+      <section id="conclusiones" class="pila" aria-labelledby="t-conclusiones">
+        <h3 id="t-conclusiones" class="visualmente-oculto">Hallazgos, insights y recomendaciones</h3>
+        <div class="rejilla">
+          <div class="panel">
+            <div class="panel__titulo"><h3>5 hallazgos</h3></div>
+            <ol class="lista-numerada" id="hallazgos"></ol>
+          </div>
+          <div class="panel">
+            <div class="panel__titulo"><h3>3 insights</h3></div>
+            <ol class="lista-numerada" id="insights"></ol>
+          </div>
+          <div class="panel">
+            <div class="panel__titulo"><h3>3 recomendaciones</h3></div>
+            <ol class="lista-numerada" id="recomendaciones"></ol>
+          </div>
+        </div>
+        <div class="panel">
+          <div class="panel__titulo"><h3>Limitaciones del análisis</h3></div>
+          <ul>
+            <li>Los datos son sintéticos y generados con una semilla fija; no representan un negocio real.</li>
+            <li>La libreta cubre un solo mes, así que no hay forma de separar estacionalidad de tendencia.</li>
+            <li>Cada registro es una línea de pedido, no un ticket completo, así que el ticket promedio es por línea.</li>
+            <li>El stock es una foto del día del corte, no un inventario con movimientos.</li>
+            <li>La proyección asume que la demanda se mantiene estable y no considera clima, festivos ni promociones.</li>
+          </ul>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer class="pie">
+    <div class="contenedor">
+      <p class="pie__legal">
+        Panel interno · Comidas Señor Salchicha · Datos sintéticos del taller
+        Food Truck Data Challenge. Todas las cifras se calculan en el navegador
+        a partir de <code>data/pedidos.json</code> y <code>data/carta.json</code>.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/admin.js"></script>
+</body>
+</html>

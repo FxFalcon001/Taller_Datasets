@@ -1,0 +1,137 @@
+[
+  {
+    "id_plato": "P01",
+    "plato": "Perro Señor Salchicha",
+    "categoria": "Perros",
+    "insumo_critico": "Salchicha americana",
+    "stock_actual": 18,
+    "costo": 5200,
+    "precio_venta": 14000
+  },
+  {
+    "id_plato": "P02",
+    "plato": "Perro Ranchero",
+    "categoria": "Perros",
+    "insumo_critico": "Tocineta ahumada",
+    "stock_actual": 9,
+    "costo": 6400,
+    "precio_venta": 16500
+  },
+  {
+    "id_plato": "P03",
+    "plato": "Perro Suizo",
+    "categoria": "Perros",
+    "insumo_critico": "Queso mozzarella",
+    "stock_actual": 24,
+    "costo": 6000,
+    "precio_venta": 15500
+  },
+  {
+    "id_plato": "P04",
+    "plato": "Perro Criollo con Chorizo",
+    "categoria": "Perros",
+    "insumo_critico": "Chorizo santarrosano",
+    "stock_actual": 12,
+    "costo": 7100,
+    "precio_venta": 18000
+  },
+  {
+    "id_plato": "P05",
+    "plato": "Salchipapa Clásica",
+    "categoria": "Salchipapas",
+    "insumo_critico": "Papa criolla",
+    "stock_actual": 32,
+    "costo": 4800,
+    "precio_venta": 13000
+  },
+  {
+    "id_plato": "P06",
+    "plato": "Salchipapa Señor Salchicha",
+    "categoria": "Salchipapas",
+    "insumo_critico": "Salchicha ranchera",
+    "stock_actual": 15,
+    "costo": 7300,
+    "precio_venta": 19000
+  },
+  {
+    "id_plato": "P07",
+    "plato": "Salchipapa Mixta Doble",
+    "categoria": "Salchipapas",
+    "insumo_critico": "Carne desmechada",
+    "stock_actual": 7,
+    "costo": 9200,
+    "precio_venta": 23000
+  },
+  {
+    "id_plato": "P08",
+    "plato": "Maíz Pira con Queso",
+    "categoria": "Salchipapas",
+    "insumo_critico": "Queso costeño",
+    "stock_actual": 21,
+    "costo": 4100,
+    "precio_venta": 11500
+  },
+  {
+    "id_plato": "P09",
+    "plato": "Hamburguesa Salchichera",
+    "categoria": "Hamburguesas",
+    "insumo_critico": "Carne de res 150g",
+    "stock_actual": 11,
+    "costo": 10500,
+    "precio_venta": 24000
+  },
+  {
+    "id_plato": "P10",
+    "plato": "Hamburguesa Doble Tocineta",
+    "categoria": "Hamburguesas",
+    "insumo_critico": "Tocineta ahumada",
+    "stock_actual": 6,
+    "costo": 13200,
+    "precio_venta": 29000
+  },
+  {
+    "id_plato": "P11",
+    "plato": "Choripán de la Casa",
+    "categoria": "Hamburguesas",
+    "insumo_critico": "Chorizo santarrosano",
+    "stock_actual": 8,
+    "costo": 8300,
+    "precio_venta": 20000
+  },
+  {
+    "id_plato": "P12",
+    "plato": "Gaseosa Personal 400ml",
+    "categoria": "Bebidas",
+    "insumo_critico": "Gaseosa 400ml",
+    "stock_actual": 48,
+    "costo": 2200,
+    "precio_venta": 5500
+  },
+  {
+    "id_plato": "P13",
+    "plato": "Limonada de Coco",
+    "categoria": "Bebidas",
+    "insumo_critico": "Pulpa de coco",
+    "stock_actual": 14,
+    "costo": 3400,
+    "precio_venta": 9000
+  },
+  {
+    "id_plato": "P14",
+    "plato": "Jugo Natural en Agua",
+    "categoria": "Bebidas",
+    "insumo_critico": "Pulpa de fruta",
+    "stock_actual": 19,
+    "costo": 2600,
+    "precio_venta": 7000
+  },
+  {
+    "id_plato": "P15",
+    "plato": "Adición de Papa a la Francesa",
+    "categoria": "Adiciones",
+    "insumo_critico": "Papa prefrita",
+    "stock_actual": 5,
+    "costo": 2400,
+    "precio_venta": 6500
+  }
+]
